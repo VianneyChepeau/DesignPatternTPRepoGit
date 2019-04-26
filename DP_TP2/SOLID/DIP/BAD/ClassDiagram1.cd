@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Chargement du code XML depuis un fichier, puis traitement&#xD;&#xA;&#xD;&#xA;Dans un second temps, chargement depuis une base de données">
+    <Position X="5.292" Y="0.5" Height="0.906" Width="3.846" />
+  </Comment>
+  <Class Name="DIP.BAD.XmlProcessor">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BAD\XmlProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DIP.BAD.XmlSource">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>BAD\XmlProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP2\SOLID\DIP\bin\Debug\DIP.dll
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP2\SOLID\DIP\bin\Debug\DIP.pdb
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP2\SOLID\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP2\SOLID\DIP\obj\Debug\DIP.dll
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP2\SOLID\DIP\obj\Debug\DIP.pdb

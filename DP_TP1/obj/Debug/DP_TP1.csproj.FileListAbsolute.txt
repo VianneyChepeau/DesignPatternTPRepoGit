@@ -1,0 +1,7 @@
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\bin\Debug\DP_TP1_AppConsole.exe.config
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\bin\Debug\DP_TP1_AppConsole.exe
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\bin\Debug\DP_TP1_AppConsole.pdb
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\obj\Debug\DP_TP1.csprojAssemblyReference.cache
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\obj\Debug\DP_TP1.csproj.CoreCompileInputs.cache
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\obj\Debug\DP_TP1_AppConsole.exe
+C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP1\obj\Debug\DP_TP1_AppConsole.pdb

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="un oiseau mange et vole&#xD;&#xA;&#xD;&#xA;c'est le cas pour un canari, pas pour une autruche&#xD;&#xA;&#xD;&#xA;=&gt; Un oiseau n'est pas remplacable par une autruche">
+    <Position X="1.041" Y="1.552" Height="0.948" Width="3.575" />
+  </Comment>
+  <Class Name="LSP.BAD.Autruche">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BAD\Autruche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSP.BAD.Canari">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BAD\Canari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSP.BAD.Oiseau">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BAD\Oiseau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

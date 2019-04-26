@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DP_TP3_AbstractFactory.AbstractDocumentFactory">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQ=</HashCode>
+      <FileName>AbstractDocumentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.PdfDocumentFactory">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQ=</HashCode>
+      <FileName>PdfDocumentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.HTMLDocumentFactory">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQ=</HashCode>
+      <FileName>HTMLDocumentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.Devis">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Devis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.Adhesion">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adhesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.HTMLDevis">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HTMLDevis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.PDFDevis">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDFDevis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.PDFAdhesion">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDFAdhesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP_TP3_AbstractFactory.HTMLAdhesion">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HTMLAdhesion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

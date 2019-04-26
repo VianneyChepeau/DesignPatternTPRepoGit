@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="La classe User gere :&#xD;&#xA;- la creation des objets (constructeur)&#xD;&#xA;- les méthodes de calcul (getAge et IsValid)&#xD;&#xA;- la persistance des données (insert / update)">
+    <Position X="4.062" Y="1.135" Height="0.969" Width="3.273" />
+  </Comment>
+  <Class Name="SRP.Student">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAARAAAIAAAAAAAAAAACAAg=</HashCode>
+      <FileName>BAD\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SRP.BAD.Test">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>BAD\Test.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

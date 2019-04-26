@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SRP.StudentModel">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAACAAg=</HashCode>
+      <FileName>GOOD\StudentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SRP.StudentDAO">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>GOOD\StudentDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SRP.StudentBusiness">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAARAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>GOOD\StudentBusiness.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="StudentModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
