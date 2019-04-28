@@ -5,3 +5,10 @@ C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP
 C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3_Singleton.csproj.CoreCompileInputs.cache
 C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3.exe
 C:\Users\vianney\Documents\EPSI\cours\cours_B3_2018_2019\designPattern\DP_TPs\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3.pdb
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\bin\Debug\DP_TP3.exe.config
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\bin\Debug\DP_TP3.exe
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\bin\Debug\DP_TP3.pdb
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3_Singleton.csprojAssemblyReference.cache
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3.exe
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\DP_TP3\obj\Debug\DP_TP3.pdb

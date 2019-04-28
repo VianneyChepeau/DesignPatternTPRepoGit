@@ -1,0 +1,7 @@
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\bin\Debug\Builder.exe.config
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\bin\Debug\Builder.exe
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\bin\Debug\Builder.pdb
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\obj\Debug\DP_TP3_Builder.csprojAssemblyReference.cache
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\obj\Debug\DP_TP3_Builder.csproj.CoreCompileInputs.cache
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\obj\Debug\Builder.exe
+C:\Users\remy_\DesignPatternTPRepoGit\DP_TP3\DP_TP3\Builder\obj\Debug\Builder.pdb
