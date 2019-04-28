@@ -10,6 +10,12 @@ namespace DP_TP3_AbstractFactory
     {
         static void Main(string[] args)
         {
+            HTMLDocumentFactory htmlDocFact = new HTMLDocumentFactory();
+            htmlDocFact.getAdhesion();
+            htmlDocFact.getDevis();
+            PdfDocumentFactory pdfDocFact = new PdfDocumentFactory();
+            pdfDocFact.getAdhesion();
+            pdfDocFact.getDevis();
         }
     }
 }
